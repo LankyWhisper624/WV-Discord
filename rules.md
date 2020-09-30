@@ -3,8 +3,8 @@
 2. If you do not set your role in the \#rules channel within 1 day of joining you will recieve a DM from a moderator to set your role. If you still have not set your role after 3 days, you will be kicked from the server.
 3. The above rule also applies to nicknames. 1 day warning, 3 days kicked.
 4. Punishment for rulebreaking is at moderator discretion. Minor offenses will usually grant you a warning and/or a short mute. Major offenses will result in a temporary mute, and in more extreme cases a kick or a ban.
-5. If you are kicked, you *can* rejoin the server. However, if you abuse this, __you will be banned.__
-6. Be nice to each other. No profanity \(N-word, gay in a derrogatory way, etc.\)
+5. If you are kicked, you *can* rejoin the server. However, if you abuse this, __<ins>you will be banned.</ins>__
+6. Be nice to each other. No profanity \(N-word, gay in a derogatory way, etc.\)
 
 ## Rules for plugging other servers
 1. Do not plug other servers. Doing so will earn you a warning.
