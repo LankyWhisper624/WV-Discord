@@ -4,6 +4,7 @@
 3. The above rule also applies to nicknames. 1 day warning, 3 days kicked.
 4. Punishment for rulebreaking is at moderator discretion. Minor offenses will usually grant you a warning and/or a short mute. Major offenses will result in a temporary mute, and in more extreme cases a kick or a ban.
 5. If you are kicked, you *can* rejoin the server. However, if you abuse this, __you will be banned.__
+6. Be nice to each other. No profanity, and no offensive words. \(n-word, gay in a derrogatory way, etc.\)
 
 ## Rules for plugging other servers
 1. Do not plug other servers. Doing so will earn you a warning.
